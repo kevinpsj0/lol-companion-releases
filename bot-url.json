@@ -1,4 +1,4 @@
 {
-  "bot_url": "https://obvious-suse-illinois-popularity.trycloudflare.com",
-  "note": "Current bot API URL. Auto-published by srv-tj after each cloudflared restart. Companion fetches this on startup."
+  "bot_url": "https://normal-contributors-adsl-presenting.trycloudflare.com",
+  "note": "The current bot API base URL. Auto-published by scripts/publish-bot-url.sh after each cloudflared restart. Companion fetches this on startup so users never need to update the app for a URL change."
 }
