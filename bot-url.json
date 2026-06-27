@@ -1,4 +1,4 @@
 {
-  "bot_url": "https://normal-contributors-adsl-presenting.trycloudflare.com",
+  "bot_url": "https://luxury-story-subjects-others.trycloudflare.com",
   "note": "The current bot API base URL. Auto-published by scripts/publish-bot-url.sh after each cloudflared restart. Companion fetches this on startup so users never need to update the app for a URL change."
 }
